@@ -44,10 +44,10 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
+global.nomorbot = '6283898398823'
+global.nomorown = '6283814324616'
 global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nameown = 'TamzModz'
 
 
 /*============== STAFF ==============*/
